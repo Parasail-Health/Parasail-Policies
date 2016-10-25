@@ -14,7 +14,7 @@ The following objectives have been established for this plan:
 5. Ensure coordination with other Parasail staff who will participate in the contingency planning strategies.
 6. Ensure coordination with external points of contact and vendors who will participate in the contingency planning strategies. 
 
-This Parasail Contingency Plan has been developed as required under the Office of Management and Budget (OMB) Circular A-130, Management of Federal Information Resources, Appendix III, November 2000, and the Health Insurance Portability and Accountability Act (HIPAA) Final Security Rule, Section §164.308(a)(7), which requires the establishment and implementation of procedures for responding to events that damage systems containing electronic protected health information. 
+This Parasail Contingency Plan has been developed as required under the Office of Management and Budget (OMB) Circular A-130, Management of Federal Information Resources, Appendix III, November 2000, and the Health Insurance Portability and Accountability Act (HIPAA) Final Security Rule, Section ��164.308(a)(7), which requires the establishment and implementation of procedures for responding to events that damage systems containing electronic protected health information. 
 
 This Parasail Contingency Plan is created under the legislative requirements set forth in the Federal Information Security Management Act (FISMA) of 2002 and the guidelines established by the National Institute of Standards and Technology (NIST) Special Publication (SP) 800-34, titled "Contingency Planning Guide for Information Technology Systems" dated June 2002.
  
@@ -26,7 +26,7 @@ The Parasail Contingency Plan also complies with the following federal and depar
 * Presidential Decision Directive (PDD) 67, Enduring Constitutional Government and Continuity of Government Operations, October 1998;
 * PDD 63, Critical Infrastructure Protection, May 1998;
 * Federal Emergency Management Agency (FEMA), The Federal Response Plan (FRP), April 1999;
-* Defense Authorization Act (Public Law 106-398), Title X, Subtitle G, “Government Information Security Reform,” October 30, 2000
+* Defense Authorization Act (Public Law 106-398), Title X, Subtitle G, ���Government Information Security Reform,��� October 30, 2000
 
 Example of the types of disasters that would initiate this plan are natural disaster, political disturbances, man made disaster, external human threats, internal malicious activities.
 
@@ -56,11 +56,11 @@ The following order of succession to ensure that decision-making authority for t
 The following teams have been developed and trained to respond to a contingency event affecting the IT system. 
 
 1. The **Ops Team** is responsible for recovery of the Parasail hosted environment, network devices, and all servers. Members of the team include personnel who are also responsible for the daily operations and maintenance of Parasail. The team leader is the VP of Engineering and directs the Dev Ops Team. 
-2. The **Web Services Team** is responsible for assuring all application servers, web services, and platform add-ons are working. It is also responsible for testing redeployments and assessing damage to the environment. The team leader is the CTO and directs the Web Services Team.
+2. The **Web Services Team** is responsible for assuring all application servers, and web services are working. It is also responsible for testing redeployments and assessing damage to the environment. The team leader is the CTO and directs the Web Services Team.
 
 ## Testing and Maintenance
 
-The CTO and VP of Engineering shall establish criteria for validation/testing of a Contingency Plan, an annual test schedule, and ensure implementation of the test. This process will also serve as training for personnel involved in the plan’s execution. At a minimum the Contingency Plan shall be tested annually (within 365 days). The types of validation/testing exercises include tabletop and technical testing. Contingency Plans for all application systems must be tested at a minimum using the tabletop testing process. However, if the application system Contingency Plan is included in the technical testing of their respective support systems that technical test will satisfy the annual requirement.
+The CTO and VP of Engineering shall establish criteria for validation/testing of a Contingency Plan, an annual test schedule, and ensure implementation of the test. This process will also serve as training for personnel involved in the plan���s execution. At a minimum the Contingency Plan shall be tested annually (within 365 days). The types of validation/testing exercises include tabletop and technical testing. Contingency Plans for all application systems must be tested at a minimum using the tabletop testing process. However, if the application system Contingency Plan is included in the technical testing of their respective support systems that technical test will satisfy the annual requirement.
 
 ### Tabletop Testing
 
