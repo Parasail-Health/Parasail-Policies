@@ -35,23 +35,23 @@ The current Parasail Privacy Officer is Travis Good ([travis@parasail.io](mailto
 
 2. The Security Officer or designee maintains documentation of the training session materials and attendees for a minimum of six years. 
 
-3. The training session focuses on, but is not limited to, the following subjects defined in Parasail ‘s security policies and procedures:
+3. The training session focuses on, but is not limited to, the following subjects defined in Parasail 's security policies and procedures:
 	1. HIPAA Privacy, Security, and Breach notification rules;
 	2. HITRUST Common Security Framework;
 	3. NIST Security Rules;
 	4. Risk Management procedures and documentation;
 	5. Auditing.  Parasail may monitor access and activities of all users;
 	6. Workstations may only be used to perform assigned job responsibilities;
-	7. Users may not download software onto Parasail’s workstations and/or systems without prior approval from the Security Officer;
+	7. Users may not download software onto Parasail's workstations and/or systems without prior approval from the Security Officer;
 	8. Users are required to report malicious software to the Security Officer immediately;
-	9. Users are required to report unauthorized attempts, uses of, and theft of Parasail’s systems and/or workstations;
+	9. Users are required to report unauthorized attempts, uses of, and theft of Parasail's systems and/or workstations;
 	10. Users are required to report unauthorized access to facilities
 	11. Users are required to report noted log-in discrepancies (i.e. application states users last log-in was on a date user was on vacation;
 	12. Users may not alter ePHI maintained in a database, unless authorized to do so by a Parasail Customer;
-	13. Users are required to understand their role in Parasail’s contingency plan;
+	13. Users are required to understand their role in Parasail's contingency plan;
 	14. Users may not share their user names nor passwords with anyone;
 	15. Requirements for users to create and change passwords;
-	16. Users must set all applications that contain or transmit ePHI to automatically log off after “X” minutes of inactivity;
+	16. Users must set all applications that contain or transmit ePHI to automatically log off after 'X' minutes of inactivity;
 	17. Supervisors are required to report terminations of workforce members and other outside users;
 	18. Supervisors are required to report a change in a users title, role, department, and/or location;
 	19. Procedures to backup ePHI;
@@ -68,7 +68,7 @@ The current Parasail Security Officer is Adam Leko ([adam@parasail.io](mailto:ad
 
 ## Organizational Responsibilities
 
-The Security Officer, in collaboration with the Privacy Officer, is responsible for facilitating the development, implementation, and oversight of all activities pertaining to Parasail’s efforts to be compliant with the HIPAA Security Regulations, HITRUST CSF, and any other security and compliance frameworks.  The intent of the Security Officer Responsibilities is to maintain the confidentiality, integrity, and availability of ePHI.  These organizational responsibilities include, but are not limited to the following:
+The Security Officer, in collaboration with the Privacy Officer, is responsible for facilitating the development, implementation, and oversight of all activities pertaining to Parasail's efforts to be compliant with the HIPAA Security Regulations, HITRUST CSF, and any other security and compliance frameworks.  The intent of the Security Officer Responsibilities is to maintain the confidentiality, integrity, and availability of ePHI.  These organizational responsibilities include, but are not limited to the following:
 
 1. Oversees and enforces all activities necessary to maintain compliance and verifies the activities are in alignment with the requirements.
 
@@ -91,13 +91,13 @@ The Security Officer, in collaboration with the Privacy Officer, is responsible 
 11. Maintains a program promoting workforce members to report non-compliance with policies and procedures.
 	1. Promptly, properly, and consistently investigates and addresses reported violations and takes steps to prevent recurrence.
 	2. Applies consistent and appropriate sanctions against workforce members who fail to comply with the security policies and procedures of Parasail.
-	3. Mitigates, to the extent practicable, any harmful effect known to Parasail of a use or disclosure of ePHI in violation of Parasail’s policies and procedures, even if effect is the result of actions of Parasail business associates, customers, and/or partners. 
+	3. Mitigates, to the extent practicable, any harmful effect known to Parasail of a use or disclosure of ePHI in violation of Parasail's policies and procedures, even if effect is the result of actions of Parasail business associates, customers, and/or partners. 
 
 12. Reports security efforts and incidents to administration immediately upon discovery. Responsibilities in the case of a known ePHI breach are documented in the [Parasail Breach Policy](./#breach).
 
 13. The Security Officer facilitates the communication of security updates and reminders to all workforce members to which it pertains.  Examples of security updates and reminders include, but are not limited to:
 	1. Latest malicious software or virus alerts;
-	2. Parasail’s requirement to report unauthorized attempts to access ePHI;
+	2. Parasail's requirement to report unauthorized attempts to access ePHI;
 	3. Changes in creating or changing passwords;
 	4. Additional security-focused training is provided to all workforce members by the Security Officer.  This training includes, but is not limited to:
 	5. Data backup plans;
@@ -111,23 +111,23 @@ The Security Officer, in collaboration with the Privacy Officer, is responsible 
 
 ## Supervision of Workforce Responsibilities
 
-Although the Security Officer is responsible for implementing and overseeing all activities related to maintaining compliance, it is the responsibility of all workforce members (i.e. team leaders, supervisors, managers, directors, co-workers, etc.) to supervise all workforce members and any other user of Parasail’s systems, applications, servers, workstations, etc. that contain ePHI.
+Although the Security Officer is responsible for implementing and overseeing all activities related to maintaining compliance, it is the responsibility of all workforce members (i.e. team leaders, supervisors, managers, directors, co-workers, etc.) to supervise all workforce members and any other user of Parasail's systems, applications, servers, workstations, etc. that contain ePHI.
 
 1. Monitor workstations and applications for unauthorized use, tampering, and theft and report non-compliance according to the Security Incident Response policy.
 
 2. Assist the Security and Privacy Officers to ensure appropriate role-based access is provided to all users.
 
-3. Take all reasonable steps to hire, retain, and promote workforce members and provide access to users who comply with the Security regulation and Parasail’s security policies and procedures.
+3. Take all reasonable steps to hire, retain, and promote workforce members and provide access to users who comply with the Security regulation and Parasail's security policies and procedures.
 
 ## Sanctions of Workforce Responsibilities
 
-All workforce members report non-compliance of Parasail’s policies and procedures to the Security Officer or other individual as assigned by the Security Officer.  Individuals that report violations in good faith may not be subjected to intimidation, threats, coercion, discrimination against, or any other retaliatory action as a consequence.
+All workforce members report non-compliance of Parasail's policies and procedures to the Security Officer or other individual as assigned by the Security Officer.  Individuals that report violations in good faith may not be subjected to intimidation, threats, coercion, discrimination against, or any other retaliatory action as a consequence.
 
-1. The Security Officer promptly facilitates a thorough investigation of all reported violations of Parasail’s security policies and procedures.  The Security Officer may request the assistance from others.
+1. The Security Officer promptly facilitates a thorough investigation of all reported violations of Parasail's security policies and procedures.  The Security Officer may request the assistance from others.
 	1. Complete an audit trail/log to identify and verify the violation and sequence of events.
 	2. Interview any individual that may be aware of or involved in the incident.
 	3. All individuals are required to cooperate with the investigation process and provide factual information to those conducting the investigation.
-	4. Provide individuals suspected of non-compliance of the Security rule and/or Parasail’s policies and procedures the opportunity to explain their actions.
+	4. Provide individuals suspected of non-compliance of the Security rule and/or Parasail's policies and procedures the opportunity to explain their actions.
 	5. The investigators thoroughly documents the investigation as the investigation occurs.
 
 2. Violation of any security policy or procedure by workforce members may result in corrective disciplinary action, up to and including termination of employment.  Violation of this policy and procedures by others, including business associates, customers, and partners may result in termination of the relationship and/or associated privileges.  Violation may also result in civil and criminal penalties as determined by federal and state laws and regulations. 
