@@ -14,7 +14,7 @@ The following objectives have been established for this plan:
 5. Ensure coordination with other Parasail staff who will participate in the contingency planning strategies.
 6. Ensure coordination with external points of contact and vendors who will participate in the contingency planning strategies. 
 
-This Parasail Contingency Plan has been developed as required under the Office of Management and Budget (OMB) Circular A-130, Management of Federal Information Resources, Appendix III, November 2000, and the Health Insurance Portability and Accountability Act (HIPAA) Final Security Rule, Section ��164.308(a)(7), which requires the establishment and implementation of procedures for responding to events that damage systems containing electronic protected health information. 
+This Parasail Contingency Plan has been developed as required under the Office of Management and Budget (OMB) Circular A-130, Management of Federal Information Resources, Appendix III, November 2000, and the Health Insurance Portability and Accountability Act (HIPAA) Final Security Rule, Section 164.308(a)(7), which requires the establishment and implementation of procedures for responding to events that damage systems containing electronic protected health information. 
 
 This Parasail Contingency Plan is created under the legislative requirements set forth in the Federal Information Security Management Act (FISMA) of 2002 and the guidelines established by the National Institute of Standards and Technology (NIST) Special Publication (SP) 800-34, titled "Contingency Planning Guide for Information Technology Systems" dated June 2002.
  
@@ -45,22 +45,22 @@ Parasail defined two categories of systems from a disaster recovery perspective.
 
 ## Line of Succession
 
-The following order of succession to ensure that decision-making authority for the Parasail Contingency Plan is uninterrupted. The Chief Technology Officer (CTO) and Security Officer, Adam Leko, are responsible for ensuring the safety of personnel and the execution of procedures documented within this Parasail Contingency Plan. If the CTO and VP of Engineering are unable to function as the overall authority or chooses to delegate this responsibility to a successor, the CEO or CPO shall function as that authority. To provide contact initiation should the contingency plan need to be initiated, please use the contact list below.
+The following order of succession to ensure that decision-making authority for the Parasail Contingency Plan is uninterrupted. The VP of Engineering (VPE) Chief Finanical Officer (CFO), are responsible for ensuring the safety of personnel and the execution of procedures documented within this Parasail Contingency Plan. If the VP of Engineering and COO are unable to function as the overall authority or chooses to delegate this responsibility to a successor, the CEO shall function as that authority. To provide contact initiation should the contingency plan need to be initiated, please use the contact list below.
 
-* Adam Leko, CTO: 414-335-0253, adam@parasail.io
-* Travis Good, CEO: 303-351-2640, travis@parasail.io
-* Mohan Balachandran, CPO: 214-215-7998, mohan@parasail.io
+* Daron Stinnett, VPE daron@
+* Mike Rasic, CFO mike@
+* Adam Tibbs CEO: adam@
 
 ## Responsibilities
 
 The following teams have been developed and trained to respond to a contingency event affecting the IT system. 
 
 1. The **Ops Team** is responsible for recovery of the Parasail hosted environment, network devices, and all servers. Members of the team include personnel who are also responsible for the daily operations and maintenance of Parasail. The team leader is the VP of Engineering and directs the Dev Ops Team. 
-2. The **Web Services Team** is responsible for assuring all application servers, and web services are working. It is also responsible for testing redeployments and assessing damage to the environment. The team leader is the CTO and directs the Web Services Team.
+2. The **Web Services Team** is responsible for assuring all application servers, and web services are working. It is also responsible for testing redeployments and assessing damage to the environment. The team leader is the VPE and directs the Web Services Team.
 
 ## Testing and Maintenance
 
-The CTO and VP of Engineering shall establish criteria for validation/testing of a Contingency Plan, an annual test schedule, and ensure implementation of the test. This process will also serve as training for personnel involved in the plan's execution. At a minimum the Contingency Plan shall be tested annually (within 365 days). The types of validation/testing exercises include tabletop and technical testing. Contingency Plans for all application systems must be tested at a minimum using the tabletop testing process. However, if the application system Contingency Plan is included in the technical testing of their respective support systems that technical test will satisfy the annual requirement.
+The VP of Engineering shall establish criteria for validation/testing of a Contingency Plan, an annual test schedule, and ensure implementation of the test. This process will also serve as training for personnel involved in the plan's execution. At a minimum the Contingency Plan shall be tested annually (within 365 days). The types of validation/testing exercises include tabletop and technical testing. Contingency Plans for all application systems must be tested at a minimum using the tabletop testing process. However, if the application system Contingency Plan is included in the technical testing of their respective support systems that technical test will satisfy the annual requirement.
 
 ### Tabletop Testing
 
@@ -78,25 +78,23 @@ The primary objective of the technical test is to ensure the communication proce
 
 ## 1. Notification and Activation Phase
 
-This phase addresses the initial actions taken to detect and assess damage inflicted by a disruption to Parasail. Based on the assessment of the Event, sometimes according to the Parasail Incident Response Policy, the Contingency Plan may be activated by either the CTO or VP of Engineering.
+This phase addresses the initial actions taken to detect and assess damage inflicted by a disruption to Parasail. Based on the assessment of the Event, sometimes according to the Parasail Incident Response Policy, the Contingency Plan may be activated by the VP of Engineering.
 
 The notification sequence is listed below:
 
-* The first responder is to notify the CTO. All known information must be relayed to the CTO.
-* The VP of Engineering is to contact the Web Services Team and inform them of the event. The CTO is to to begin assessment procedures.
-* The CTO is to notify team members and direct them to complete the assessment procedures outlined below to determine the extent of damage and estimated recovery time. If damage assessment cannot be performed locally because of unsafe conditions, the CTO is to following the steps below.
+* The first responder is to notify the VPE. All known information must be relayed to the VPE.
+* The VPE is to contact the Web Services Team and inform them of the event. The VPE is to to begin assessment procedures.
+* The VPE is to notify team members and direct them to complete the assessment procedures outlined below to determine the extent of damage and estimated recovery time. If damage assessment cannot be performed locally because of unsafe conditions, the VPE is to following the steps below.
 	* Damage Assessment Procedures:
-	* The CTO and VP of Engineering are to logically assess damage, gain insight into whether the infrastructure is salvageable, and begin to formulate a plan for recovery.
-	* Alternate Assessment Procedures:
-	* Upon notification from the CTO, the VP of Engineering is to follow the procedures for damage assessment with combined Dev Ops and Web Services Teams. 
+	* The  VP of Engineering will logically assess damage, gain insight into whether the infrastructure is salvageable, and begin to formulate a plan for recovery.
 * The Parasail Contingency Plan is to be activated if one or more of the following criteria are met:
 	* Parasail will be unavailable for more than 48 hours.
 	* Hosting facility is damaged and will be unavailable for more than 24 hours.
 	* Other criteria, as appropriate and as defined by Parasail.
-	* If the plan is to be activated, the CTO is to notify and inform team members of the details of the event and if relocation is required.
-	* Upon notification from the CTO, group leaders and managers are to notify their respective teams. Team members are to be informed of all applicable information and prepared to respond and relocate if necessary.
-	* The CTO is to notify the hosting facility partners that a contingency event has been declared and to ship the necessary materials (as determined by damage assessment) to the alternate site.
-	* The CTO is to notify remaining personnel and executive leadership on the general status of the incident.
+	* If the plan is to be activated, the VPE is to notify and inform team members of the details of the event and if relocation is required.
+	* Upon notification from the VPE, group leaders and managers are to notify their respective teams. Team members are to be informed of all applicable information and prepared to respond and relocate if necessary.
+	* The VPE is to notify the hosting facility partners that a contingency event has been declared and to ship the necessary materials (as determined by damage assessment) to the alternate site.
+	* The VPE is to notify remaining personnel and executive leadership on the general status of the incident.
 	* Notification can be message, email, or phone.
 
 ## 2. Recovery Phase
@@ -111,7 +109,7 @@ The tasks outlines below are not sequential and some can be run in parallel.
 
 1. Contact Partners and Customers affected - Web Services
 2. Assess damage to the environment - Web Services
-3. Begin replication of new environment using automated and tested scrips, currently Salt. At this point it is determined whether to recover in Rackspace, AWS, Azure, or SoftLayer. - Dev Ops
+3. Begin replication of new environment using automated and tested scripts on AWS
 4. Test new environment using pre-written tests - Web Services
 5. Test logging, security, and alerting functionality - Dev Ops
 6. Assure systems are appropriately patched and up to date. - Dev Ops
@@ -123,7 +121,7 @@ The tasks outlines below are not sequential and some can be run in parallel.
 This section discusses activities necessary for restoring Parasail operations at the original or new site. The goal is to restore full operations within 24 hours of a disaster or outage. When the hosted data center at the original or new site has been restored, Parasail operations at the alternate site may be transitioned back. The goal is to provide a seamless transition of operations from the alternate site to the computer center.
 
 1. Original or New Site Restoration
-	* Begin replication of new environment using automated and tested scrips, currently Salt. - Dev Ops
+	* Begin replication of new environment using automated and tested scripts. - Dev Ops
 	* Test new environment using pre-written tests. - Web Services
 	* Test logging, security, and alerting functionality. - Dev Ops
 	* Deploy environment to production - Web Services
