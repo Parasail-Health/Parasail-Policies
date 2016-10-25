@@ -5,8 +5,6 @@
 Each policy is included as it's own markdown file in case you want to cherry pick specific policies. If you currently have no policies in place, we encourage you to consider utilizing all policies.
 
 * [Introduction](source/sections/introduction.md)
-* [HIPAA Inheritance for PaaS Customers](source/sections/hipaa_inheritance_for_paas_customers.md)
-* [HIPAA Inheritance for Platform Add-on Customers](source/sections/hipaa_inheritance_for_platform_addon_customers.md)
 * [Policy Management Policy](source/sections/policy_management_policy.md)
 * [Risk Management Policy](source/sections/risk_management_policy.md)
 * [Roles Policy](source/sections/roles_policy.md)
@@ -27,7 +25,6 @@ Each policy is included as it's own markdown file in case you want to cherry pic
 * [Approved Tools Policy](source/sections/approved_tools_policy.md)
 * [3rd Party Policy](source/sections/3rd_party_policy.md)
 * [Key Definitions](source/sections/key_definitions.md)
-* Parasail HIPAA Business Associate Agreement (“BAA”)
 * [HIPAA Mappings to Parasail Controls](source/sections/hipaa_mapping_to_parasail_controls.md)
 
 
