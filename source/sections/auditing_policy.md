@@ -120,7 +120,6 @@ A. Organizational history and experience.
 B. Available storage space.
 1. Reports summarizing audit activities shall be retained for a period of six years.
 3. Log data is currently retained and readily accessible for a 1-month period. Beyond that, log data is available via cold backup. 
-4. For Paas Customers, they choose the length of backup retention and availability that Parasail will implement and enforce.
 
 ## Potential Trigger Events
 
