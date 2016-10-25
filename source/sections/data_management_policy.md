@@ -1,6 +1,6 @@
 # Data Management Policy
 
-Parasail has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) stored in conjunction with Parasail Add-ons and for PaaS Customers utilizing our Backup Service. This policy, and associated procedures for testing and restoring from backup data, do not apply to PaaS Customers that do not choose Parasail Backup Service. The policy and procedures will assure that complete, accurate, retrievable, and tested backups are available for all systems used by Parasail.
+Parasail has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) utilizing our Backup Service. The policy and procedures will assure that complete, accurate, retrievable, and tested backups are available for all systems used by Parasail.
   
 Data backup is an important part of the day-to-day operations of Parasail. To protect the confidentiality, integrity, and availability of ePHI, both for Parasail and Parasail Customers, completes backups are done daily to assure that data remains available when it needed and in case of disaster.
 
@@ -18,7 +18,7 @@ Violation of this policy and its procedures by workforce members may result in c
 
 ## Backup Policy and Procedures
 
-1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for Parasail Customers, including PaaS Customers that utilize the Parasail Backup Service
+1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for Parasail Customers
 2. Parasail Ops Team, lead by VP of Engineering, is designated to be in charge of backups.
 3. Dev Ops Team members are trained and assigned assigned to complete backups and manage the backup media.
 4. Document backups 
