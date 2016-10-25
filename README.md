@@ -1,9 +1,5 @@
 # Parasail HIPAA Compliance Policies
 
-### Policy Index
-
-Each policy is included as it's own markdown file in case you want to cherry pick specific policies. If you currently have no policies in place, we encourage you to consider utilizing all policies.
-
 * [Introduction](source/sections/introduction.md)
 * [Policy Management Policy](source/sections/policy_management_policy.md)
 * [Risk Management Policy](source/sections/risk_management_policy.md)
