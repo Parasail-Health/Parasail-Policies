@@ -2,7 +2,7 @@
 
 Parasail works with Subcontractors to assure restriction of physical access to systems used as part of the Parasail Platform. Parasail and its Subcontractors control access to the physical buildings/facilities that house these systems/applications, or in which Parasail workforce members operate, in accordance to the HIPAA Security Rule 164.310 and its implementation specifications. Physical Access to all of Parasail facilities is limited to only those authorized in this policy. In an effort to safeguard ePHi from unauthorized access, tampering, and theft, access is allowed to areas only to those persons authorized to be in them and with escorts for unauthorized persons. All workforce members are responsible for reporting an incident of unauthorized visitor and/or unauthorized access to Parasail's facility.
 
-Of note, Parasail does not have ready access to ePHI, it provides cloud-based, compliant infrastructure to covered entities and business associates. Parasail does not physically house any systems used by its Platform in Parasail facilities. Physical security of our Platform servers is outlined [here](http://broadcast.rackspace.com/downloads/pdfs/RackspaceSecurityApproach.pdf).
+Of note, Parasail does not have ready access to ePHI, it provides cloud-based, compliant infrastructure to covered entities and business associates. Parasail does not physically house any systems used by its Platform in Parasail facilities. 
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
